@@ -5,7 +5,7 @@
     2) A free trial twilio number should be taken (preferrable a UK number) as we have written the script by considering in mind that number starts with +44.
 
 ### Steps to run the script for testing successful registration scenario (entering valid OTP):
-    1) Enter inside the project folder by typing 'cd' command on terminal.
+    1) Enter inside the project folder by typing 'cd' command on terminal and then do 'yarn install'.
     
     2) Run an express server (localhost) by exceuting following command: 'nodemon server.js'
     
